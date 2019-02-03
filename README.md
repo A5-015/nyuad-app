@@ -1,3 +1,4 @@
 # nyuad.app
 
-Hello World!
+The student portal, but better. 
+
